@@ -1,0 +1,35 @@
+body{
+	background-color: gold;
+}
+
+h1{
+	font-size :300%;
+	color: red;
+}
+
+button{
+	width: 180px;
+	height: 29px;
+	font-size: 20px;
+	color: blue;
+	background-color: lightgreen;
+	border: 0;
+	box-shadow: 2px 2px hotpink;
+	border-radius: 3px;
+}
+
+ui{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	height: 36px;
+	background-color: black;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 15px;
+}
+
+li{
+	float: right;
+
+	
+}
